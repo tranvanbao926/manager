@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>8A93D60E-19A0-4C99-89EB-B2FA174B7F4C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A93D60E-19A0-4C99-89EB-B2FA174B7F4C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>testBao project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>testBao</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project testBao with scheme testBao and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>587239443.430691</real>
+			<key>timeStoppedRecording</key>
+			<real>587239443.85587895</real>
+			<key>title</key>
+			<string>Building project testBao with scheme testBao and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>8A93D60E-19A0-4C99-89EB-B2FA174B7F4C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

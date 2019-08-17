@@ -1,0 +1,4 @@
+#Mon Aug 05 09:59:59 ICT 2019
+base.0=D\:\\New folder\\testBao\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+path.0=classes.dex
